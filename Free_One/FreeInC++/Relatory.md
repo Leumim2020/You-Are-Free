@@ -1,6 +1,6 @@
-# I'm free in Java
+# I'm free in C++
 ## Run time
-    5.4 seconds
+    0,0242 seconds
 ## Size of project
     4KB
 ## Bugs
