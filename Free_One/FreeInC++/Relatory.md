@@ -6,7 +6,7 @@
 ## Bugs
     ?
 ## Language(s)
-      Java
+      C++
 ## Frameworks
       ?
 ## API
@@ -14,5 +14,5 @@
 ## Library
       ?
 ## Community
-      60
+      50
       
