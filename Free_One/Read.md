@@ -5,6 +5,8 @@
     
 ## REQUESTED
 
+   > Run time and size
+---------------------------------------------------    
    > C++ RUNT TIME: 0.0242 seconds
    
    > SIZE OF PROJECT:4KB
