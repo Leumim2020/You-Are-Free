@@ -5,8 +5,10 @@
     4KB
 ## Bugs
     ?
-## Language(s)
+## Mother Language
       Python
+## Other Language
+
 ## Frameworks
       ?
 ## API
@@ -15,3 +17,4 @@
       ?
 ## Community
       70
+## Helps      
