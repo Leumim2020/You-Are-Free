@@ -1,6 +1,7 @@
 # PROBLEM: Create a program that print "hello world"
 ## OUTPUT 
-<p color="blue" >HELLO WORLD!</p>
+    HELLO WORLD!
+    
 ## REQUESTED
 
     C++ RUNT TIME: 0.0242 seconds
@@ -18,6 +19,8 @@
 ## CHOSEN LANGUAGE
     C++
     
+## Helps   
+
 ## PLATFORMS TESTED
     WINDOWS
    
