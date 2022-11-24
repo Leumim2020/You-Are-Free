@@ -4,6 +4,7 @@
 ## REQUESTED
 
     C++ RUNT TIME: 0.0242 seconds
+    CODE: ![](https://github.com/Leumim2020/You-Are-Free/blob/main/Free_One/FreeInC%2B%2B/Hmain.cpp)
     SIZE OF PROJECT:4KB
     
     JAVA RUN TIME:5.4 seconds
