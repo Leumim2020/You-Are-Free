@@ -7,7 +7,7 @@
     ?
 ## Mother Language
       Java
-## Other Languag(s)
+## Other Language(s)
 
 ## Frameworks
       ?
