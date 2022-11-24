@@ -5,8 +5,10 @@
     4KB
 ## Bugs
     ?
-## Language(s)
+## Mother Language
       C++
+## Other LanguageS
+
 ## Frameworks
       ?
 ## API
@@ -15,4 +17,5 @@
       ?
 ## Community
       50
+## Helps      
       
