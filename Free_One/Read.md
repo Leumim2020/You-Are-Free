@@ -1,6 +1,6 @@
 # PROBLEM: Create a program that print "hello world"
 ## OUTPUT 
-    HELLO WORLD!
+>    HELLO WORLD!
     
 ## REQUESTED
 
