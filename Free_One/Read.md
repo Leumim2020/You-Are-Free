@@ -1,28 +1,29 @@
 # PROBLEM: Create a program that print "hello world"
 ## OUTPUT 
->    HELLO WORLD!
+> HELLO WORLD!
     
 ## REQUESTED
 
-    C++ RUNT TIME: 0.0242 seconds
+   > C++ RUNT TIME: 0.0242 seconds
     CODE: FreeInC++/Hmain.cpp
-    SIZE OF PROJECT:4KB
+   > SIZE OF PROJECT:4KB
     
-    JAVA RUN TIME:5.4 seconds
-    SIZE OF PROJECT:4KB
-    CODE: CODE: FreeInJava/Hmain.cpp
+   > JAVA RUN TIME:5.4 seconds
+     CODE: CODE: FreeInJava/Hmain.cpp
+   > SIZE OF PROJECT:4KB
+   
     
-    PYTHON RUNT TIME: 5.245208740234375e-06 seconds
+   > PYTHON RUNT TIME: 5.245208740234375e-06 seconds
     CODE:CODE: FreeInPYTHON/Hmain.cpp
-    SIZE OF PROJECT:4KB
+   > SIZE OF PROJECT:4KB
     
 ## CHOSEN LANGUAGE
-    C++
+    > C++
     
 ## Helps   
 
 ## PLATFORMS TESTED
-    WINDOWS
+    > WINDOWS
    
    
   
